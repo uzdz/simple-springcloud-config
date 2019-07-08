@@ -2,7 +2,7 @@ author:
   name: "dz"
 
 server:
-  port: 8083
+  port: 8081
 
 feign:
   hystrix:
