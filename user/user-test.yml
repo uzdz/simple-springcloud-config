@@ -1,2 +1,9 @@
 author:
   name: "uzdz"
+
+server:
+  port: 8081
+
+feign:
+  hystrix:
+    enabled: true
